@@ -1,3 +1,5 @@
+https://chethanchiru.lovable.app
+
 
 # 🚀 Smart Student Service Hub – AI-Ready Portal
 

@@ -213,3 +213,11 @@ This project is not just an academic submission —
 it represents a **foundation for building scalable real-world applications**.
 
 ---
+
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 40 44 AM" src="https://github.com/user-attachments/assets/91c2dd9b-0ea2-4c50-9544-004dd2f70230" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 40 56 AM" src="https://github.com/user-attachments/assets/678f73fd-a95e-4f07-9bfe-ffab178e85ad" />
+<img width="1457" height="786" alt="Screenshot 2026-04-08 at 10 40 17 AM" src="https://github.com/user-attachments/assets/a78d9153-97ef-4566-ae9c-1941386a1d3a" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 25 AM" src="https://github.com/user-attachments/assets/47bdbd3e-9e9c-472a-a725-93a78d761613" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 17 AM" src="https://github.com/user-attachments/assets/064e6474-612e-4e9e-b044-d591aa348a04" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 07 AM" src="https://github.com/user-attachments/assets/928bf34a-79c6-4d3d-b6ee-e56e8adecbd8" />
+

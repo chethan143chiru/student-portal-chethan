@@ -215,11 +215,10 @@ This project is not just an academic submission —
 it represents a **foundation for building scalable real-world applications**.
 
 ---
-
-<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 40 44 AM" src="https://github.com/user-attachments/assets/91c2dd9b-0ea2-4c50-9544-004dd2f70230" />
-<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 40 56 AM" src="https://github.com/user-attachments/assets/678f73fd-a95e-4f07-9bfe-ffab178e85ad" />
-<img width="1457" height="786" alt="Screenshot 2026-04-08 at 10 40 17 AM" src="https://github.com/user-attachments/assets/a78d9153-97ef-4566-ae9c-1941386a1d3a" />
-<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 25 AM" src="https://github.com/user-attachments/assets/47bdbd3e-9e9c-472a-a725-93a78d761613" />
-<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 17 AM" src="https://github.com/user-attachments/assets/064e6474-612e-4e9e-b044-d591aa348a04" />
-<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 07 AM" src="https://github.com/user-attachments/assets/928bf34a-79c6-4d3d-b6ee-e56e8adecbd8" />
+<img width="1457" height="786" alt="Screenshot 2026-04-08 at 10 40 17 AM" src="https://github.com/user-attachments/assets/6388d032-945a-497b-ac85-26e20349ad44" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 40 44 AM" src="https://github.com/user-attachments/assets/f481b4ff-26e1-454a-972b-3e6e16d0124f" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 40 56 AM" src="https://github.com/user-attachments/assets/05bac833-3403-4686-bd03-57061317f841" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 07 AM" src="https://github.com/user-attachments/assets/e3308871-55d2-41d9-bc39-c7daf8b8c037" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 17 AM" src="https://github.com/user-attachments/assets/aabec071-5266-49c5-bf7f-e32261763092" />
+<img width="1457" height="792" alt="Screenshot 2026-04-08 at 10 41 25 AM" src="https://github.com/user-attachments/assets/479daa3b-a556-43a0-bfb3-5d55301042ca" />
 
